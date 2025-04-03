@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Betha Sistemas**
 
-- 👨‍💻 All of my projects are available at this Github
+- 👨‍💻 All of my public projects are available at this Github
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
