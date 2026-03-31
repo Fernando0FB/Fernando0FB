@@ -20,4 +20,12 @@
 <p align="left"><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></p>
 
 <h3 align="left">Most used languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando0fb&show_icons=true&locale=en&layout=compact" alt="fernando0fb" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fernando0FB&layout=compact&theme=nightowl&show_icons=true" alt="fernando0fb" /></p>
+
+<h3 align="left">Portfolio</h3>
+
+<p>
+  <a href="https://fernando0fb.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
