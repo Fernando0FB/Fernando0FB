@@ -6,11 +6,9 @@
 - 👨‍💻 All of my public projects are available at this Github
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fernando-favaro-bonetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-favaro-bonetti" height="30" width="40" /></a>
-<a href="https://instagram.com/fer_nandofb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_nandofb" height="30" width="40" /></a>
-</p>
-</p>
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fernando-favaro-bonetti)
+[![Instagram](https://skillicons.dev/icons?i=instagram)]([https://linkedin.com/in/fernando-favaro-bonetti](https://instagram.com/fer_nandofb))
 
 <h3 align="left">Languages and Tools:</h3>
 
